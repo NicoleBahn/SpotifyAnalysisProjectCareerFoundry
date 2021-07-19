@@ -3,7 +3,8 @@ Spotify Data from 2017 to 2020
 
 The Data source:
   Spotify- https://www.kaggle.com/pepepython/spotify-huge-database-daily-charts-over-3-years
-  Global Shapefile - https://tapiquen-sig.jimdofree.com/english-version/free-downloads/world/
+ 
+ Global Shapefile - https://tapiquen-sig.jimdofree.com/english-version/free-downloads/world/
   
 
 The source is from the company Spotify that is automated. This is internal data that the company shares freely. The company is a third party that shares music from around the world, however, there could be biases from the company as if it gains revenue from ranking music. (*side note*The creators of the data set made a popularity scale due to the bias nature of spotify’s ranking. )
