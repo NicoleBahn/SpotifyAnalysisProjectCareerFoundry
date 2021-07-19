@@ -69,6 +69,8 @@ Overview of the data:
 -Top50_dummy: A dummy equal to 1 if the top position reached by a song is 50 or higher
 
 
+
+
 Define questions to explore: 
 •	Do countries share same top ranking artists or songs?
 
