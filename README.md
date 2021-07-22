@@ -79,8 +79,6 @@ Cleaning procedures entailed ensuring there was no missing data, duplicates, & c
   Define questions to explore: 
 •	Do countries share same top ranking artists or songs?
 
-•	Which songs or top 10 stay in that position? Which countries are they played the most?
+•	Is there a correlation between popularity of an artist and being in the top 50 charts?
 
-•	How long time does a top ranking song takes to get into the ranking of neighbor countries?
-
-•	Are there different genres that are in the most popular, top 10 or top 50?
+•	Are there different genres that are most popular per country?
