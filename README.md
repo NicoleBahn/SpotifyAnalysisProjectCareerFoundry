@@ -82,3 +82,5 @@ Cleaning procedures entailed ensuring there was no missing data, duplicates, & c
 •	Is there a correlation between popularity of an artist and being in the top 50 charts?
 
 •	Are there different genres that are most popular per country?
+
+Visualization of data and results on Tableau: https://public.tableau.com/app/profile/nicole7538/viz/SpotifyFinalProject_16268316599600/GlobalMusicPopularity?publish=yes
